@@ -117,8 +117,16 @@
               "devServerTarget": "AngularFirebasePractice:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "AngularFirebasePractice"
+    }
+  },
+  "defaultProject": "AngularFirebasePractice",
+  "cli": {
+    "analytics": false
+  }
 }

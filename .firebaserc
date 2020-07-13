@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-bluu": {
+      "hosting": {
+        "AngularFirebasePractice": [
+          "angular-firebase-bluu"
+        ]
+      }
+    }
+  }
+}
